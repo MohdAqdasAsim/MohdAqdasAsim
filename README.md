@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World! 👋<br>I'm MoonKnight, a passionate programmer from India. Welcome to my GitHub profile!<br><br>About Me<br>I love making projects and i am really passionate about coding and I am constantly trying to improve my skills as a programmer.<br><br>Get in Touch<br>📫 You can reach me via email at [Your Email Address]<br>💼 Connect with me on LinkedIn<br>🌐 Visit my personal website/blog<br><br>Let's Collaborate!<br>I'm always open to collaboration and new opportunities. If you have any exciting projects or ideas you'd like to discuss, feel free to reach out!
+Hello, World! 👋<br>I'm Mohd Aqdas Asim, a passionate programmer from India. Welcome to my GitHub profile!<br><br>About Me<br>I love making projects and i am really passionate about coding and I am constantly trying to improve my skills as a programmer.<br><br>Get in Touch<br>📫 You can reach me via email at mohdaqdasasim@gmail.com<br>💼 Connect with me on LinkedIn<br>🌐 Visit my personal website/blog<br><br>Let's Collaborate!<br>I'm always open to collaboration and new opportunities. If you have any exciting projects or ideas you'd like to discuss, feel free to reach out!
 
 
 ## 🌐 Socials:
