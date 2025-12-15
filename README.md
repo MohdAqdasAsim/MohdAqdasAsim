@@ -24,7 +24,7 @@
     <a href="https://linkedin.com/in/mohd-aqdas-asim" target="_blank"><strong>LinkedIn</strong></a>
   </p>
 
-  <p style="font-size: 13px; margin: 0;">
+  <p style="font-size: 13px; margin: 0; opacity: 80%">
     Focused on clarity, maintainability,<br />
     and systems that scale gracefully.
   </p>
