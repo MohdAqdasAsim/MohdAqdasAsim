@@ -2,7 +2,10 @@
 
 <!-- Info -->
 <span align="center" style="padding-left: 28px; vertical-align: middle; text-align: center;">
-  <img src="./name.svg" alt="Mohd Aqdas Asim" height="90" style="display: block; margin-bottom: 8px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./name-dark.svg">
+    <img src="./name-light.svg" alt="Mohd Aqdas Asim" height="90" style="display: block; margin-bottom: 8px;" />
+  </picture>
 
   <p style="margin: 0 0 8px 0;">
     <strong>Full-Stack Developer</strong>
