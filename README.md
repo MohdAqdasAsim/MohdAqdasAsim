@@ -4,14 +4,15 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    min-height: 400px; /* simulates full height */
+    min-height: 400px;
     gap: 28px;
     flex-wrap: wrap;
   "
 >
+  <!-- Info Box -->
   <div
     style="
-      width: 60%
+      width: 60%;
       max-width: 420px;
       display: flex;
       flex-direction: column;
@@ -26,7 +27,7 @@
       width="80%"
       style="display: block; margin-bottom: 12px;"
     />
-    <p style="margin: 0 0 12px 0; font-weight: bold">Full-Stack Developer</p>
+    <p style="margin: 0 0 12px 0; font-weight: bold;">Full-Stack Developer</p>
     <p
       style="
         margin: 0 0 16px 0;
@@ -48,9 +49,10 @@
     </p>
   </div>
 
+  <!-- Avatar Box -->
   <div
     style="
-      width: 30%
+      width: 30%;
       background-color: #1A2128;
       padding: 40px 20px;
       border-radius: 12px;
@@ -63,7 +65,7 @@
       src="./avatar.png"
       alt="My Avatar"
       width="180"
+      style="display: block;"
     />
   </div>
-
 </div>
