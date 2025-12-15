@@ -11,6 +11,7 @@
 >
   <div
     style="
+      width: 60%
       max-width: 420px;
       display: flex;
       flex-direction: column;
@@ -49,6 +50,7 @@
 
   <div
     style="
+      width: 30%
       background-color: #1A2128;
       padding: 40px 20px;
       border-radius: 12px;
