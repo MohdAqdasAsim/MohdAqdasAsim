@@ -1,7 +1,7 @@
 <div align="center" style="border-collapse: collapse; width: 100%; max-width: 720px;">
 
 <!-- Avatar -->
-<span align="center" width="120">
+<span align="center" width="10">
   <img src="./avatar.png" alt="My Avatar" width="180" style="display: block; transform: scaleX(-1);" />
 </span>
 
