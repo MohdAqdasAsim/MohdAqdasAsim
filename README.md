@@ -1,10 +1,6 @@
 <div align="center" style="border-collapse: collapse; width: 100%; max-width: 720px;">
 
 <!-- Avatar -->
-<span align="center" width="10">
-  <img src="./avatar.png" alt="My Avatar" width="180" style="display: block; transform: scaleX(-1);" />
-</span>
-
 <!-- Info -->
 <span align="center" style="padding-left: 28px; vertical-align: middle; text-align: center;">
   <img src="./name.svg" alt="Mohd Aqdas Asim" height="90" style="display: block; margin-bottom: 8px;" />
